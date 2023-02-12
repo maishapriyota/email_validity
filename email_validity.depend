@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639971743 source:c:\users\dell\onedrive\documents\final\email_validity\email_validity.c
+	<stdio.h>
+	<stdlib.h>
+	"email_validity.h"
+
+1639971704 c:\users\dell\onedrive\documents\final\email_validity\email_validity.h
+
+1639971842 source:c:\users\dell\onedrive\documents\final\email_validity\main.c
+	<stdio.h>
+	<stdlib.h>
+
